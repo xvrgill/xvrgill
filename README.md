@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to my Github profile! 👋
+
+I'm a Marketing Analyst and Freelance Data Scientist in the Financial sector. Don't let my marketing background fool you! I'm a data junkie at heart that loves nothing more than a stiff cup of coffee and a dirty dataset.
+
+#### A Little About Me
+
+- :dog: I have two amazing dogs - Blue & Ice
+- :city_sunset: I currently live in NYC, which never sleeps and apparently neither do I!
+
+
 
 <!--
 **xvrgill/xvrgill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
