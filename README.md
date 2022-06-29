@@ -18,11 +18,16 @@ I'm a Marketing Analyst and Freelance Data Scientist in the Financial sector. Do
 
 #### My Github Stats
 
-Most of my work is for firms that I work for which explains my low contributions here. I'm actively working on contributing to open source projects in 2022 - please do connect with me if you need contributors to your project! 
+Most of my work is for firms that I work for which explains my lack of contributions here.
+
+Most of my code here is for brain dumps and prototyping. I'm currently in the process of cleaning it up to better align with production level code that I use for my data science clients :first_quarter_moon_with_face: and data analyst role :necktie:.
+
+I'm actively working on contributing to open source projects in 2022 - please do connect with me if you need contributors to your project! 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvrgill)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 
+#### Blue & Ice thank you for checking out my code!
+
 
 <!--
 **xvrgill/xvrgill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
