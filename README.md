@@ -4,10 +4,25 @@ I'm a Marketing Analyst and Freelance Data Scientist in the Financial sector. Do
 
 #### A Little About Me
 
-- :dog: I have two amazing dogs - Blue & Ice
+- :dog: I have two amazing dogs named Blue & Ice
 - :city_sunset: I currently live in NYC, which never sleeps and apparently neither do I!
+- :oncoming_automobile: I have an undeniable love for cars. Unfotunately i'm 6'3" so I can't fit into most of my favorites but that's never stopped me from oggling
 
+#### Languages
 
+| Language | Proficiency Rating             | How I Feel Writing In It         |
+|----------|--------------------------------|----------------------------------|
+| Python   | :fire::fire::fire::fire::fire: | :heartpulse::weary::sweat_drops: |
+| SQL      | :fire::fire::fire::fire:       | :clap::sunglasses:               |
+| Java     | :fire::fire::fire:             | :muscle::triumph:                |
+
+#### My Github Stats
+
+Most of my work is for firms that I work for which explains my low contributions here. I'm actively working on contributing to open source projects in 2022 - please do connect with me if you need contributors to your project! 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvrgill)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 
 
 <!--
 **xvrgill/xvrgill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
