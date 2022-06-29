@@ -15,6 +15,8 @@ I'm a Marketing Analyst and Freelance Data Scientist in the Financial sector. Do
 | Python   | :fire::fire::fire::fire::fire: | :heartpulse::weary::sweat_drops: |
 | SQL      | :fire::fire::fire::fire:       | :clap::sunglasses:               |
 | Java     | :fire::fire::fire:             | :muscle::triumph:                |
+| Bash     | :fire::fire:                   |                                  |
+|          |                                |                                  |
 
 #### My Github Stats
 

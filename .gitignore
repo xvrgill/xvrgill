@@ -1,2 +1,3 @@
 # ignoring jet brains file
 .idea
+.DS_Store
