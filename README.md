@@ -28,6 +28,9 @@ I'm actively working on contributing to open source projects in 2022 - please do
 
 #### Blue & Ice thank you for checking out my code!
 
+https://user-images.githubusercontent.com/60839017/176361578-587bf3b1-74f3-41c8-b93f-174980c9c61e.mp4
+
+![IMG_5308](https://user-images.githubusercontent.com/60839017/176361671-c6480dfb-808f-4bdb-a437-b367b6b9f5e3.jpeg)
 
 <!--
 **xvrgill/xvrgill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
