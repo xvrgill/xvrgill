@@ -19,10 +19,10 @@ Don't let my marketing background fool you!
 | Python     | :fire::fire::fire::fire::fire: | :heartpulse::weary::sweat_drops: |
 | SQL        | :fire::fire::fire::fire:       | :clap::sunglasses:               |
 | Java       | :fire::fire::fire:             | :muscle::triumph:                |
-| HTML       | :fire::fire::fire::fire::fire: |                                  |
-| Javascript | :fire::fire::fire:             |                                  |
-| CSS        | :fire::fire::fire:             |                                  |
-| Bash       | :fire::fire:                   |                                  |
+| HTML       | :fire::fire::fire::fire::fire: | :neutral_face:                   |
+| Javascript | :fire::fire::fire:             | :open_mouth:                     |
+| CSS        | :fire::fire::fire:             | :trollface:                      |
+| Bash       | :fire::fire:                   | :metal::neckbeard:               |
 
 ### My Github Stats
 
