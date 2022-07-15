@@ -22,7 +22,7 @@ Don't let my marketing background fool you!
 | HTML       | :fire::fire::fire::fire::fire: | :neutral_face:                   |
 | Javascript | :fire::fire::fire:             | :open_mouth:                     |
 | CSS        | :fire::fire::fire:             | :trollface:                      |
-| Bash       | :fire::fire:                   | :metal::neckbeard:               |
+| Bash       | :fire::fire::fire::fire:       | :metal::neckbeard:               |
 
 ### My Github Stats
 
